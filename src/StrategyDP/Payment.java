@@ -1,6 +1,4 @@
-package Strategy;
-
-import java.util.Objects;
+package StrategyDP;
 
 public class Payment implements PaymentStrategy  {
     PaymentStrategy paymentStrategy;

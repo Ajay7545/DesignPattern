@@ -1,4 +1,4 @@
-package Strategy;
+package StrategyDP;
 
 public class UPIPayment implements PaymentStrategy{
 
